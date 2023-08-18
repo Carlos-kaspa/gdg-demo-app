@@ -39,5 +39,5 @@ $ docker-compose --build up
 
 ```bash
 # run unit tests
-docker run demp-app npm run test:cov
+docker run demp-app npm run test:cov 
 ```
