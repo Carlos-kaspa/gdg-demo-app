@@ -29,7 +29,7 @@
 ## Running the app
 
 ```bash
-$ docker-compose up
+$ docker-compose up 
 # or
 $ docker-compose --build up
 
